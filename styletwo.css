@@ -1,0 +1,86 @@
+body{
+    background-image: url(starrynight.jpg);
+}
+p{
+  margin-left: 100px;
+  margin-top: 30px;
+  font-size: 15px;
+  font-family:'Courier New';
+}
+
+
+  
+
+.One{
+    display: block;
+  margin-left: 155px;
+  margin-right:0;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 360px;
+}
+.Five{
+  display: block;
+  margin-left: 155px;
+  margin-right:0;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 310px;
+}
+.frame{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 500px;
+    border:3px double black;
+}
+.streets{
+    background-image: url(field.jpg);
+    margin-bottom: 40px;
+    margin-top: 20px;
+    width: 300px;
+   height: 300px;
+   border: 2px dashed black;
+  }
+  .sunflower{
+    background-image: url(sunflower.png);
+    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 300px;
+   height: 350px;
+   border: 2px dashed black;
+  
+    
+  }
+  .speech{
+    width: 500px;
+    float: left;
+  
+   height: 900px;
+    margin-left: 100px;
+    margin-right: auto;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    max-width: 500px;
+    background-image: url(quotebg.jpg);
+    border: 5px dotted black;
+   display: block;
+  }
+  .small{
+    width: 50%;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 500px;
+    border:3px dashed black;
+    border-radius:2px;
+    background-image: url(painting.jpg);
+  }
+  
